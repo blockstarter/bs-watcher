@@ -6,7 +6,6 @@ require! {
     \ip-address : ip
     \dns-lookup : lookup
     \ipaddr.js
-    \md5
     \fs
 }
 
