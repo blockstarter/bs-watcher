@@ -1,0 +1,33 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": ",-----.,--.                  ,--. ,---.   ,--.,------.  ,------.     '  .--./|  | ,---. ,--.,--. ,-|  || o   \\  |  ||  .-.  \\ |  .---'     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \\  :|  `--,      '  '--'\\|  |' '-' ''  ''  '\\ `-' | .'  /   |  ||  '--'  /|  `---.      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'     -----------------------------------------------------------------",
+  "main": "index.js",
+  "config": {
+    "host": "tokensale.snov.io",
+    "checkip": "2400:cb00:2048:1::6819:9015",
+    "bot": "",
+    "admins": [
+      "blockstarter_tech",
+      "alexsiman",
+      "@Medvednikov",
+      "@cvmakarov"
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dns-lookup": "^0.1.0",
+    "ip-address": "^5.8.8",
+    "ipaddr.js": "^1.5.4",
+    "os": "^0.1.1",
+    "ping": "^0.2.2",
+    "prelude-ls": "^1.1.2",
+    "require-ls": "0.0.8",
+    "superagent": "^3.8.1",
+    "telegram-bot-api": "^1.2.0"
+  }
+}
